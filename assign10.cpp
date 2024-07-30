@@ -1,18 +1,5 @@
 /**
 * File Name: assign10.cpp
-* Academic Integrity Statement: 
-* I certify that, while others may have assisted me in brainstorming, debugging, and validating this program, 
-* the program itself is my own work. I understand that submitting code that is the work of other individuals 
-* is a violation of the course Academic Integrity Policy and may result in zero credit for the assignment, or 
-* course failure and a report to the Academic Dishonesty Board. I also understand that if I knowingly give my 
-* original work to another individual could also result in zero credit for the assignment, or course failure 
-* and a report to the Academic Dishonesty Board. See Academic Integrity for Students
-Links to an external site.
-* 
-* Assisted by and Assisted line numbers:Assidsted by Prof.Liaw,Assisted line(6-9), and line(44,46,48).
-* Your Name: YUERAN MA
-* Your PSU user ID:  ymm5252
-* Course title: CMPSC122 Summer 2024
 * Description: This is a simple project that applied recursive function to calculate tricky math problem.
 **/
 
